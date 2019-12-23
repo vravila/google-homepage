@@ -39,3 +39,137 @@ body {
 a{
     text-decoration: none;
 }
+
+.gb_Ag .gb_Ua{
+    z-index: 987;
+}
+
+.gb_Ua .gb_xg{
+    flex: 1 1 auto;
+}
+
+.gb_Of .gb_xg{
+    display: flex;
+}
+
+.gb_i.gb_wg{
+    float: right;
+    order: 1;
+}
+
+.gb_Ua {
+    min-width: 165px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    z-index: 986;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    -webkit-user-select: none;
+}
+
+.gb_xg, .gb_i {
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+
+.gb_xg {
+    white-space: nowrap;
+}
+
+.gb_Ag.gb_Ua .gb_8d {
+    padding-right: 15px;
+}
+
+.gb_h.gb_i:first-child {
+    padding-left: 0;
+}
+
+.gb_Ag.gb_Ag .gb_h {
+    display: inline-block;
+}
+
+.gb_Tc {
+    line-height: normal;
+    position: relative;
+    text-align: left;
+}
+
+.gb_xg, .gb_i {
+    margin-left: 0!important;
+    margin-right: 0!important;
+}
+
+.gb_xg {
+    white-space: nowrap;
+}
+
+.gb_dd:first-child, #gbsfw:first-child+.gb_dd {
+    padding-left: 0;
+}
+
+.gb_Ff {
+    position: relative;
+}
+
+#gb#gb a.gb_D {
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.gb_C .gb_D {
+    background-position: -132px -38px;
+    opacity: .55;
+}
+
+.gb_oc {
+    background-image: url(//ssl.gstatic.com/gb/images/i2_2ec824b0.png);
+}
+
+.gb_D {
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;
+}
+
+.gb_Pa.gb_i, .gb_Ta.gb_i, .gb_Oa.gb_i {
+    flex: 0 1 auto;
+}
+
+.gb_2a {
+    border-color: transparent;
+    border-style: dashed dashed solid;
+    border-width: 0 8.5px 8.5px;
+    display: none;
+    position: absolute;
+    left: 6.5px;
+    z-index: 1;
+    height: 0;
+    width: 0;
+    animation: gb__a .2s;
+    border-bottom-color: rgba(0,0,0,.2);
+    top: 36px;
+}
+
+.gb_1a {
+    border-color: transparent;
+    border-bottom-color: #fff;
+    border-style: dashed dashed solid;
+    border-width: 0 8.5px 8.5px;
+    display: none;
+    position: absolute;
+    left: 6.5px;
+    top: 37px;
+    z-index: 1;
+    height: 0;
+    width: 0;
+    animation: gb__a .2s;
+}
